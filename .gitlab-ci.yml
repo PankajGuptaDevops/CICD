@@ -1,7 +1,0 @@
-stages:
-  - test
-
-hello-world-job:
-  stage: test
-  script:
-    - echo "Hello, GitLab CI is workingby Pankaj Gupta!"
