@@ -13,7 +13,7 @@
 image: busybox:latest
 
 before_script:
-  - echo "Before pankaj Gupta webhook script section"
+  - echo "Before pankaj Gupta webhook script change in file 1 section"
   - echo "For example you might run an update here or install a build dependency"
   - echo "Or perhaps you might print out some debugging details"
 
